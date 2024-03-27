@@ -1,5 +1,5 @@
 # PyDataStructures
-: A Python repository featuring essential data structures like arrays, linked lists, trees, and more. Includes clear documentation, tests, and welcomes contributions. Ideal for learning, practicing, and implementing data structures efficiently.
+A Python repository featuring essential data structures like arrays, linked lists, trees, and more. Includes clear documentation, tests, and welcomes contributions. Ideal for learning, practicing, and implementing data structures efficiently.
 
 Description:
 PyDataStructures is a comprehensive Python repository dedicated to implementing various data structures from scratch. This repository serves as a resource for learning, practicing, and understanding fundamental data structures through hands-on coding exercises. Each data structure is meticulously crafted with clear explanations and documentation, making it accessible for both beginners and experienced programmers alike.
