@@ -26,34 +26,39 @@ Interview candidates can leverage PyDataStructures for practicing data structure
 
 Repository Structure:
 
-c
-Copy code
-PyDataStructures/
+
+PyDataStructures
+
 │
 ├── arrays/
 │   ├── dynamic_array.py
 │   ├── circular_buffer.py
 │   └── ...
 │
+
 ├── linked_lists/
 │   ├── singly_linked_list.py
 │   ├── doubly_linked_list.py
 │   └── ...
 │
+
 ├── stacks_and_queues/
 │   ├── stack.py
 │   ├── queue.py
 │   └── ...
 │
+
 ├── trees_and_graphs/
 │   ├── binary_tree.py
 │   ├── graph.py
 │   └── ...
 │
+
 ├── hash_tables/
 │   ├── hash_table.py
 │   └── ...
 │
+
 ├── tests/
 │   ├── test_arrays.py
 │   ├── test_linked_lists.py
@@ -62,6 +67,7 @@ PyDataStructures/
 │   ├── test_hash_tables.py
 │   └── ...
 │
+
 ├── docs/
 │   ├── index.md
 │   ├── array.md
@@ -73,5 +79,6 @@ PyDataStructures/
 │   ├── hash_table.md
 │   └── ...
 │
+
 ├── README.md
 └── LICENSE
